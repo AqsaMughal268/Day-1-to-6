@@ -2,7 +2,7 @@
 "use client"
 
 import { client } from "@/sanity/lib/client";
-import { url } from "inspector";
+
 import { urlFor } from "@/sanity/lib/image";
 import Image  from "next/image";
 import React, { useEffect, useState } from "react";
